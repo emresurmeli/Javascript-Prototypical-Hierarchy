@@ -34,3 +34,4 @@ EvilGenius.prototype = new SuperVillian ("lightning", "stone");
 
 var superman = new SuperHero ("flight", "kryptonite");
 var batman = new RealisticHero ("Bruce Wayne", "Millionare Playboy");
+var gandalf = new MagicalHero ("sorcery", "light");
