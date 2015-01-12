@@ -45,7 +45,8 @@ function EvilGenius(problem, IQ) {
 }
 EvilGenius.prototype = new SuperVillian ("lightning", "stone");
 
-// Three instances 
+// Four instances 
 var superman = new SuperHero ("flight", "kryptonite");
 var batman = new RealisticHero ("Bruce Wayne", "Millionare Playboy");
 var gandalf = new MagicalHero ("sorcery", "light");
+var mySelf = new Person ("calm");
